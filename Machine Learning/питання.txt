@@ -1,0 +1,6 @@
+1. Could you explain me what were my errors in the Progress Test 2?
+
+2.Can specify a seed for a randomizer to provide the best classifier or regressor regarding their accuracy or r2 score?
+3. MLP performs amazingly perfect both on a train and valid dataset.  Should I trust this result now, if I doublechecked everything and looked for any errors?
+4. I tried to implement log transformation or other scalers for linear regression, but they just made my R2 score worse. So, may I just keep my model with the highest score zero point seventy eight?
+5. What accuracy metrics I am expected to represent for both tasks? 
