@@ -98,9 +98,9 @@ According to the obtained results, the SVM model, undoubtedly performs excellent
 The last model – multi-layer perceptron has demonstrated an amazing performance on training data and prepared validation data. In essence, it managed to achieve 99.9% of accuracy and a tiny mean squared error. Considering the obtained values from the test dataset, it is expected greatly to prove its extremely high precision. <br><br>
 Thus, it would be obvious to an insurance manager to determine possibly not-insured customers, because most of the obtained values are grouped around 0. <br><br>
 Concerning the other values, still in some rare cases, this model has a small bias, but perhaps in a real-life, it would not be a rather big difference. <br><br>
-On other hand, this model has many parameters to adjust. Therefore, it would take more time to train on a larger dataset with billions of records. Also, almost always this technique requires data scaling to work properly. <br>
+On other hand, this model has many parameters to adjust. Therefore, it would take more time to train on a larger dataset with billions of records. Also, almost always this technique requires data scaling to work properly. <br><br>
+However, the travel insurance company could take advantage of this model to precisely predict the values of discounted premiums for their customer.<br>
 
-However, the travel insurance company could take advantage of this model to precisely predict the values of discounted premiums for their customer.<br><br>
 >All in all, in the result, of the conducted investigation on the ML methods applied to determine a value of a discounted premium, it should be claimed that the given task can be solved using such classifiers as linear regression, a support vector machine with a radial basis function kernel and a multi-layer perceptron. Thus, in essence, a travel insurance company may apply the aforementioned techniques to their needs.
 
 
